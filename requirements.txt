@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 telethon 
-=======
-telethon 
->>>>>>> 57d923d (first)
